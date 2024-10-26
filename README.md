@@ -6,4 +6,4 @@
 
 ### Hai idee, suggerimenti o feedback?
 
-Ci piacerebbe ascoltarli! Sentiti libero di [aprire una nuova issue nella repository](https://github.com/Coding-Bunker/python-junior/issues) e contribuire al miglioramento di Python Junior.
+Ci piacerebbe ascoltarli! Sentiti libero/a di [aprire una nuova issue nella repository](https://github.com/Coding-Bunker/python-junior/issues) e contribuire al miglioramento di Python Junior.
